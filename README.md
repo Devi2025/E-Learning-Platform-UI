@@ -30,5 +30,9 @@ Minimalistic and Clean Aesthetic: A user-friendly, minimalist design that priori
 
 This project is designed to create an enjoyable, accessible, and effective digital learning environment.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/71d41416-2b9c-453c-a998-d4a79d16f39d)
+
 
 
