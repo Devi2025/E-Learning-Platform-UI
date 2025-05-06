@@ -34,7 +34,7 @@ This project is designed to create an enjoyable, accessible, and effective digit
 
 ![Image](https://github.com/user-attachments/assets/71d41416-2b9c-453c-a998-d4a79d16f39d)
 
-![Image](https://github.com/user-attachments/assets/71d41416-2b9c-453c-a998-d4a79d16f39d)
+
 
 
 
